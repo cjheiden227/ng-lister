@@ -1,0 +1,11 @@
+{
+  "lists": [
+    {
+      "title": "List 1",
+      "listItems": ["Buy Groceries", "Get Dog Food"],
+      "editedOn": 1,
+      "ownedBy": 1,
+      "sharedWith": null
+    }
+  ]
+}

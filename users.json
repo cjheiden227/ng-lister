@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Chris Heiden",
+      "email": "cjheiden227@gmail.com",
+      "id": 1,
+      "ownedLists": [],
+      "sharedLists": []
+    },
+    {
+      "name": "Kat Heiden",
+      "email": "kat.heiden22@gmail.com",
+      "id": 2,
+      "ownedLists": [],
+      "sharedLists": []
+    }
+  ]
+}
